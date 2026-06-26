@@ -117,7 +117,7 @@ Python • Pandas • NumPy • Scikit-learn
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-SanghitaRoy&layout=compact&theme=github_dark"/>
 </p>
 
 ---
