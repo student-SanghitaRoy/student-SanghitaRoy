@@ -51,7 +51,7 @@
 
 ## 🚀 Featured projects
 
-### 🧠 NeuraScan AI — Brain Tumour Detection System
+### 🧠NeuraScan AI: Explainable Brain Tumour Detection from MRI
 > An end-to-end deep learning project for multiclass brain tumour classification from MRI images, with Grad-CAM explainability and an interactive web deployment.
 
 **Features**
